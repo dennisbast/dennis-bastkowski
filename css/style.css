@@ -142,8 +142,7 @@ span {
 }
 
 .about-content h2 {
-  text-align: left;
-  line-height: 1.2;
+  margin-bottom: 4rem;
 }
 
 .about-content h3 {
